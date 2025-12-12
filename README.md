@@ -13,7 +13,7 @@ Tech Stack yang digunakan:
 - SweetAlert2
 
 Link Website:
-https://www.eki.my.id/
+second-v6.vercel.app
 
 We would appreciate it if you would like to use this project, please include our credit in your use. Thank You! 🙏
 
