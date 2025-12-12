@@ -217,7 +217,7 @@ const Home = () => {
                   isHovering ? "scale-105" : "scale-100"
                 }`}>
                   <img 
-                    src="/Coding.gif" // Path to your GIF in the /public folder
+                    src="/meme-cat.gif" // Path to your GIF in the /public folder
                     alt="3D Modeling and Coding Illustration" 
                     className={gifClassName}
                   />
