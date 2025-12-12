@@ -106,7 +106,7 @@ export const localProjects = [
   },
   {
     id: 'project-8',
-    Title: 'duplicate for next project!t',
+    Title: 'duplicate for next project!',
     Description: 'Building upon previous isometric work with more detailed environment and improved visual quality.',
     Link: 'https://example.com/demo8',
     Img: '/card7.jpg',
