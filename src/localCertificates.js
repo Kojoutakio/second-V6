@@ -8,7 +8,4 @@ export const localCertificates = [
     Date: '2025',
     Description: 'Certificate for 3D modeling and character design'
   },
-  {
- 
-  }
 ];
