@@ -145,8 +145,8 @@ const Home = () => {
   // NEW: GIF configuration
   const gifClassName = `w-full h-auto object-contain transition-all duration-500 ${
     isHovering 
-      ? "scale-105" // Apply a slight scale on hover
-      : "scale-100"
+      ? "scale-[180%] sm:scale-[160%] md:scale-[150%] lg:scale-[145%] rotate-2" 
+      : "scale-[175%] sm:scale-[155%] md:scale-[145%] lg:scale-[140%]"
   }`;
 
   return (
