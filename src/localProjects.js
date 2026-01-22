@@ -2,16 +2,16 @@ export const localProjects = [
   {
     id: 'project-1',
     Title: 'Featured Video Project',
-    Description: 'Watch our latest project demo in video format',
+    Description: 'The first animation to win as favorite animation in the Animation competition of STATE POLYTECHNIC OF CREATIVE MEDIA JAKARTA',
     Link: 'https://example.com/demo1',
     Img: '/video.mp4', 
-    TechStack: ['React', 'Video', 'Interactive'],
+    TechStack: ['3D Animation', 'Video', 'Compettion'],
     Github: 'https://github.com/Kojoutakio',
     Features: [
-      'Interactive video playback',
-      'Real-time demo showcase',
-      'Responsive design',
-      'Modern UI/UX'
+      'Win Animation Competition',
+      'Goldship',
+      'Traditional Animation Competition',
+      'Umamusume'
     ]
   },
   {
