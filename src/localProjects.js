@@ -119,6 +119,22 @@ export const localProjects = [
       'Professional presentation'
     ]
   },
+  {
+    id: 'project-9',
+    Title: 'Special Christmast',
+    Description: 'An isometric city scene with night lighting and neon atmosphere.',
+    Link: 'https://example.com/demo9',
+    Img: 'chrtistmast video.mp4',
+    Github: 'https://github.com/Kojoutakio',
+    TechStack: ['Isometric Design', 'Lighting', 'Animation'],
+    Features: [
+    'Night city atmosphere',
+    'Neon lighting effects',
+    'Smooth camera animation',
+    'High detail environment'
+  ]
+}
+  },
 ];
 
 // Helper function to get image path based on project index
