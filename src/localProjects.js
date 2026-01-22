@@ -106,10 +106,10 @@ export const localProjects = [
   },
   {
     id: 'project-8',
-    Title: 'duplicate for next project!',
+    Title: 'Special Christmast',
     Description: 'Building upon previous isometric work with more detailed environment and improved visual quality.',
     Link: 'https://example.com/demo8',
-    Img: '/card7.jpg',
+    Img: 'chrtistmast video.mp4',
     Github: 'https://github.com/Kojoutakio',
     TechStack: ['3D Modeling', 'Environment Design', 'Visual Enhancement'],
     Features: [
@@ -118,22 +118,6 @@ export const localProjects = [
       'Enhanced textures',
       'Professional presentation'
     ]
-  },
-  {
-    id: 'project-9',
-    Title: 'Special Christmast',
-    Description: 'An isometric city scene with night lighting and neon atmosphere.',
-    Link: 'https://example.com/demo9',
-    Img: 'chrtistmast video.mp4',
-    Github: 'https://github.com/Kojoutakio',
-    TechStack: ['Isometric Design', 'Lighting', 'Animation'],
-    Features: [
-    'Night city atmosphere',
-    'Neon lighting effects',
-    'Smooth camera animation',
-    'High detail environment'
-  ]
-}
   },
 ];
 
