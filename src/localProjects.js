@@ -134,6 +134,21 @@ export const localProjects = [
       'Professional Animation'
     ]
   },
+  {
+    id: 'project-10',
+    Title: 'Pulchra',
+    Description: 'Inpiration from skeleton meme (RRRRRRRAAAAAAAAAAAAAAAAAAAAHHH)',
+    Link: 'https://example.com/demo10',
+    Img: 'Pulchra.mkv',
+    Github: 'https://github.com/Kojoutakio',
+    TechStack: ['3D Modeling', 'Keyframe', 'Retroscop Animation', 'Frieren'],
+    Features: [
+      'Retroscop style',
+      'Blender',
+      'Enhanced textures',
+      'Professional Animation'
+    ]
+  },
 ];
 
 // Helper function to get image path based on project index
