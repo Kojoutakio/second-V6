@@ -124,12 +124,12 @@ export const localProjects = [
     Title: 'Special Christmast',
     Description: 'I Make this Animation when last year 2025 with my friend,and for backround we try hard for making better backround but beacus our laptop kinda hopless so the backround only have less object.(discalmmer chracter is not my model i just only animate the character)',
     Link: 'https://example.com/demo9',
-    Img: 'chrtistmast video.mp4',
+    Img: 'Raaaahhh.mp4',
     Github: 'https://github.com/Kojoutakio',
-    TechStack: ['3D Modeling', 'Environment', 'Visual Enhancement', 'Animation'],
+    TechStack: ['3D Modeling', 'Keyframe', 'Retroscop Animation', 'Frieren'],
     Features: [
-      'Detailed environment design',
-      'Improved visual quality',
+      'Retroscop style',
+      'Blender',
       'Enhanced textures',
       'Professional Animation'
     ]
