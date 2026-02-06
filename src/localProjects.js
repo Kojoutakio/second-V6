@@ -154,8 +154,8 @@ export const localProjects = [
     id: 'project-11',
     Title: 'Pulchra',
     Description: 'Inpiration from skeleton meme (RRRRRRRAAAAAAAAAAAAAAAAAAAAHHH)',
-    Link: 'null',
-    Img: 'Pulchra.mkv',
+    Link: 'https://example.com/demo11',
+    Img: 'null',
     Github: 'https://github.com/Kojoutakio',
     TechStack: ['3D Modeling', 'Keyframe', 'Retroscop Animation', 'Frieren'],
     Features: [
