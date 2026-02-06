@@ -136,9 +136,25 @@ export const localProjects = [
   },
   {
     id: 'project-10',
+    Title: 'Sybil animation',
+    Description: 'Inpiration from meme enought to be your mother 😛',
+    Link: 'https://example.com/demo10',
+    Img: 'shybill (1).mp4',
+    Github: 'https://github.com/Kojoutakio',
+    TechStack: ['3D Modeling', 'Smooth Keyframe', 'Meme', 'Compillation'],
+    Features: [
+      'Smooth Animation',
+      'Face Animation',
+      'Lips Sync',
+      'Professional Animation'
+      'Blender'
+    ]
+  },
+  {
+    id: 'project-11',
     Title: 'Pulchra',
     Description: 'Inpiration from skeleton meme (RRRRRRRAAAAAAAAAAAAAAAAAAAAHHH)',
-    Link: 'https://example.com/demo10',
+    Link: 'null',
     Img: 'Pulchra.mkv',
     Github: 'https://github.com/Kojoutakio',
     TechStack: ['3D Modeling', 'Keyframe', 'Retroscop Animation', 'Frieren'],
