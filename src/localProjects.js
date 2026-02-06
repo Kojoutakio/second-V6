@@ -150,21 +150,6 @@ export const localProjects = [
       'Blender'
     ]
   },
-  {
-    id: 'project-11',
-    Title: 'Pulchra',
-    Description: 'Inpiration from skeleton meme (RRRRRRRAAAAAAAAAAAAAAAAAAAAHHH)',
-    Link: 'https://example.com/demo11',
-    Img: 'null',
-    Github: 'https://github.com/Kojoutakio',
-    TechStack: ['3D Modeling', 'Keyframe', 'Retroscop Animation', 'Frieren'],
-    Features: [
-      'Retroscop style',
-      'Blender',
-      'Enhanced textures',
-      'Professional Animation'
-    ]
-  },
 ];
 
 // Helper function to get image path based on project index
