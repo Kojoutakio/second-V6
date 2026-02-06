@@ -136,18 +136,17 @@ export const localProjects = [
   },
   {
     id: 'project-10',
-    Title: 'Sybil animation',
-    Description: 'Inpiration from meme enought to be your mother 😛',
+    Title: 'Pulchra',
+    Description: 'Inpiration from skeleton meme (RRRRRRRAAAAAAAAAAAAAAAAAAAAHHH)',
     Link: 'https://example.com/demo10',
-    Img: 'shybill (1).mp4',
+    Img: 'Pulchra.mkv',
     Github: 'https://github.com/Kojoutakio',
-    TechStack: ['3D Modeling', 'Smooth Keyframe', 'Meme', 'Compillation'],
+    TechStack: ['3D Modeling', 'Keyframe', 'Retroscop Animation', 'Frieren'],
     Features: [
-      'Smooth Animation',
-      'Face Animation',
-      'Lips Sync',
+      'Retroscop style',
+      'Blender',
+      'Enhanced textures',
       'Professional Animation'
-      'Blender'
     ]
   },
 ];
