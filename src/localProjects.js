@@ -151,17 +151,17 @@ export const localProjects = [
   },
   {
     id: 'project-11',
-    Title: 'Sybill Animation',
-    Description: 'Inpiration from Old enough to be your mother',
-    Link: 'https://example.com/demo10',
-    Img: 'shybill (1).mp4',
+    Title: 'Mal0 Dance',
+    Description: 'I got idea making this from Instagram lol',
+    Link: 'https://example.com/demo11',
+    Img: 'Mal0.mp4',
     Github: 'https://github.com/Kojoutakio',
-    TechStack: ['3D Modeling', 'Smooth Keyframe', 'meme', 'Complilation', 'SFX'],
+    TechStack: ['3D Animation', 'Smooth Keyframe', 'dance', 'Complilation', 'SCP'],
     Features: [
-      'Lips Sync',
-      'Face Animation',
-      'Smooth Animation',
-      'Professional Animation'
+      'Blender Animation',
+      'SFW Animation',
+      'Humanoid Animation',
+      'SCP FOUNDATION'
     ]
   },
 ];
