@@ -156,6 +156,21 @@ export const localProjects = [
     Link: 'https://example.com/demo11',
     Img: 'Mal0.mp4',
     Github: 'https://github.com/Kojoutakio',
+    TechStack: ['3D Animation', 'Smooth Keyframe', 'dance', '', 'SCP'],
+    Features: [
+      'Blender Animation',
+      'SFW Animation',
+      'Humanoid Animation',
+      'SCP FOUNDATION'
+    ]
+  },
+  {
+    id: 'project-12',
+    Title: 'Mal0 Dance',
+    Description: 'I got idea making this from Instagram lol',
+    Link: 'https://example.com/demo12',
+    Img: 'Mal0.mp4',
+    Github: 'https://github.com/Kojoutakio',
     TechStack: ['3D Animation', 'Smooth Keyframe', 'dance', 'Complilation', 'SCP'],
     Features: [
       'Blender Animation',
