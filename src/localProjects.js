@@ -149,6 +149,22 @@ export const localProjects = [
       'Professional Animation'
     ]
   },
+  {
+    id: 'project-11',
+    Title: 'Sybill Animation',
+    Description: 'Inpiration from Old enough to be your mother',
+    Link: 'https://example.com/demo10',
+    Img: 'shybill (1).mp4',
+    Github: 'https://github.com/Kojoutakio',
+    TechStack: ['3D Modeling', 'Smooth Keyframe', 'meme', 'Complilation', 'SFX'],
+    Features: [
+      'Lips Sync',
+      'Face Animation',
+      'Smooth Animation',
+      'Professional Animation'
+    ]
+  },
+  {
 ];
 
 // Helper function to get image path based on project index
