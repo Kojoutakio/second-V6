@@ -164,7 +164,6 @@ export const localProjects = [
       'Professional Animation'
     ]
   },
-  {
 ];
 
 // Helper function to get image path based on project index
