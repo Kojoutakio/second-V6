@@ -166,17 +166,17 @@ export const localProjects = [
   },
   {
     id: 'project-12',
-    Title: 'Mal0 Dance',
-    Description: 'I got idea making this from Instagram lol',
+    Title: 'Boxing',
+    Description: 'i try make some fighting animation cus im really dint know how to make it,that why i try make one in the ring and tried some walk cycle too',
     Link: 'https://example.com/demo12',
-    Img: 'Mal0.mp4',
+    Img: 'Boxing .mp4',
     Github: 'https://github.com/Kojoutakio',
-    TechStack: ['3D Animation', 'Smooth Keyframe', 'dance', 'Complilation', 'SCP'],
+    TechStack: ['3D Animation', 'Smooth Keyframe', 'boxing', 'furry', 'Fighting'],
     Features: [
       'Blender Animation',
-      'SFW Animation',
+      'Walk cycle',
       'Humanoid Animation',
-      'SCP FOUNDATION'
+      'Boxing'
     ]
   },
 ];
