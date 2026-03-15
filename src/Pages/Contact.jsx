@@ -124,7 +124,7 @@ const ContactPage = () => {
                   Get in Touch
                 </h2>
                 <p className="text-gray-400">
-                  Have something to discuss? or do you want ask about commision? Send me a message and let's talk.
+                  Have something to discuss? or do you want to ask about commision? Send me a message and let's talk.
                 </p>
               </div>
               <Share2 className="w-10 h-10 text-[#6366f1] opacity-50" />
