@@ -104,7 +104,7 @@ const ContactPage = () => {
           data-aos-duration="1100"
           className="text-slate-400 max-w-2xl mx-auto text-sm md:text-base mt-2"
         >
-          Got a question? and want to ask about commision? Send me a message, and I'll get back to you soon.
+          Got a question? Send me a message, and I'll get back to you soon.
         </p>
       </div>
 
@@ -124,7 +124,7 @@ const ContactPage = () => {
                   Get in Touch
                 </h2>
                 <p className="text-gray-400">
-                  Have something to discuss? Send me a message and let's talk.
+                  Have something to discuss? or do you want ask about commision? Send me a message and let's talk.
                 </p>
               </div>
               <Share2 className="w-10 h-10 text-[#6366f1] opacity-50" />
