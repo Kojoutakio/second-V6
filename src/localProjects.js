@@ -184,7 +184,7 @@ export const localProjects = [
     Title: 'Main Menu',
     Description: 'i got idea like this from tiktok btw',
     Link: 'https://example.com/demo13',
-    Img: 'Main menu by @kojouta.mp4',
+    Img: 'dist/Main menu by @kojouta.mp4',
     Github: 'https://github.com/Kojoutakio',
     TechStack: ['3D Animation', 'Trend', 'Need for speed', 'Furry', 'Main menu'],
     Features: [
