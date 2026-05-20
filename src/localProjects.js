@@ -180,7 +180,7 @@ export const localProjects = [
     ]
   },
   {
-    id: 'project-12',
+    id: 'project-13',
     Title: 'Boxing',
     Description: 'i try make some fighting animation cus im really dint know how to make it,that why i try make one in the ring and tried some walk cycle too',
     Link: 'https://example.com/demo12',
