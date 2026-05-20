@@ -192,8 +192,8 @@ export const localProjects = [
       'Walk cycle',
       'Humanoid Animation',
       'Boxing'
-  },
-];
+   ]
+ },
 
 // Helper function to get image path based on project index
 export const getProjectImage = (projectIndex) => {
