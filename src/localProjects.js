@@ -181,17 +181,17 @@ export const localProjects = [
   },
   {
     id: 'project-13',
-    Title: 'Boxing',
-    Description: 'i try make some fighting animation cus im really dint know how to make it,that why i try make one in the ring and tried some walk cycle too',
-    Link: 'https://example.com/demo12',
-    Img: 'Boxing .mp4',
+    Title: 'Main Menu',
+    Description: 'i got idea like this from tiktok btw',
+    Link: 'https://example.com/demo13',
+    Img: 'Main menu by @kojouta.mp4',
     Github: 'https://github.com/Kojoutakio',
-    TechStack: ['3D Animation', 'Smooth Keyframe', 'boxing', 'furry', 'Fighting'],
+    TechStack: ['3D Animation', 'Trend', 'Need for speed', 'Furry', 'Main menu'],
     Features: [
       'Blender Animation',
-      'Walk cycle',
-      'Humanoid Animation',
-      'Boxing'
+      'Furry',
+      'Police',
+      ''
    ]
   },
 ];
