@@ -179,6 +179,20 @@ export const localProjects = [
       'Boxing'
     ]
   },
+  {
+    id: 'project-12',
+    Title: 'Boxing',
+    Description: 'i try make some fighting animation cus im really dint know how to make it,that why i try make one in the ring and tried some walk cycle too',
+    Link: 'https://example.com/demo12',
+    Img: 'Boxing .mp4',
+    Github: 'https://github.com/Kojoutakio',
+    TechStack: ['3D Animation', 'Smooth Keyframe', 'boxing', 'furry', 'Fighting'],
+    Features: [
+      'Blender Animation',
+      'Walk cycle',
+      'Humanoid Animation',
+      'Boxing'
+  },
 ];
 
 // Helper function to get image path based on project index
