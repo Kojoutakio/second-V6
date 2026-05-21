@@ -195,7 +195,7 @@ export const localProjects = [
   },
   {
     id: 'project-14',
-    Title: 'scorbuny,
+    Title: 'Main Menu',
     Description: 'i got idea like this from tiktok btw',
     Link: 'https://example.com/demo13',
     Img: 'https://files.catbox.moe/6ltqct.mp4',
