@@ -195,16 +195,16 @@ export const localProjects = [
   },
   {
     id: 'project-14',
-    Title: 'Main Menu',
-    Description: 'i got idea like this from tiktok btw',
+    Title: 'SFW Warning,Scorbunny Dance',
+    Description: 'Scorbunny hell yeah',
     Link: 'https://example.com/demo13',
-    Img: 'https://files.catbox.moe/6ltqct.mp4',
+    Img: 'https://files.catbox.moe/5zg5by.mp4',
     Github: 'https://github.com/Kojoutakio',
-    TechStack: ['3D Animation', 'Trend', 'Need for speed', 'Furry', 'Main menu'],
+    TechStack: ['3D Animation', 'Trend', 'Pokemon', 'Furry', 'Bunny'],
     Features: [
       'Blender Animation',
       'Furry',
-      'Police',
+      'Pokemon',
     ]
   },
 ];
