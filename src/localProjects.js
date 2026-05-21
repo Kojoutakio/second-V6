@@ -196,8 +196,8 @@ export const localProjects = [
   {
     id: 'project-14',
     Title: 'SFW Warning,Scorbunny Dance',
-    Description: 'Scorbunny hell yeah',
-    Link: 'https://example.com/demo13',
+    Description: 'Scorbunny hell yeah..this is exlusive btw im only upload this on here lol',
+    Link: 'https://example.com/demo14',
     Img: 'https://files.catbox.moe/5zg5by.mp4',
     Github: 'https://github.com/Kojoutakio',
     TechStack: ['3D Animation', 'Trend', 'Pokemon', 'Furry', 'Bunny'],
