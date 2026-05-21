@@ -204,7 +204,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Kojuta
+                Kojouta
               </span>
             </h2>
             
