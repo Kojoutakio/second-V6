@@ -217,7 +217,7 @@ const Home = () => {
                   isHovering ? "scale-105" : "scale-100"
                 }`}>
                   <img 
-                    src="https://files.catbox.moe/kr3fx9.gif" // Path to your GIF in the /public folder
+                    src="ready-or-not-not-ready.png" // Path to your GIF in the /public folder
                     alt="3D Modeling and Coding Illustration" 
                     className={gifClassName}
                   />
