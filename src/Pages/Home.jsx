@@ -33,7 +33,7 @@ const MainTitle = memo(() => (
       <span className="relative inline-block mt-2">
         <span className="absolute -inset-2 bg-gradient-to-r from-[#6366f1] to-[#a855f7] blur-2xl opacity-20"></span>
         <span className="relative bg-gradient-to-r from-[#6366f1] to-[#a855f7] bg-clip-text text-transparent">
-          Modeler
+          Animator
         </span>
       </span>
     </h1>
@@ -174,7 +174,7 @@ const Home = () => {
                 <p className="text-base md:text-lg text-gray-400 max-w-xl leading-relaxed font-light"
                   data-aos="fade-up"
                   data-aos-delay="1000">
-                  Create optimized, functional 3D models and create smooth animations for your projects, products and games.
+                  Create optimized, functional 3D Animation and create smooth animations for your projects, products and games.
                 </p>
 
                 {/* Tech Stack */}
@@ -218,7 +218,7 @@ const Home = () => {
                 }`}>
                   <img 
                     src="https://files.catbox.moe/hdyez4.png" // Path to your GIF in the /public folder
-                    alt="3D Modeling and Coding Illustration" 
+                    alt="Animator and Modeler" 
                     className={gifClassName}
                   />
                 </div>
