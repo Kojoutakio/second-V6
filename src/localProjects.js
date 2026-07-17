@@ -137,7 +137,7 @@ export const localProjects = [
   {
     id: 'project-10',
     Title: 'Sybill Animation',
-    Description: 'Inpiration from Old enough to be your mother',
+    Description: 'Inpiration from Old enough to be your mother (credit character to WARFAREMACHINE)',
     Link: 'https://example.com/demo10',
     Img: 'shybill (1).mp4',
     Github: 'https://github.com/Kojoutakio',
@@ -167,7 +167,7 @@ export const localProjects = [
   {
     id: 'project-12',
     Title: 'Boxing',
-    Description: 'i try make some fighting animation cus im really dint know how to make it,that why i try make one in the ring and tried some walk cycle too',
+    Description: 'i try make some fighting animation cus im really dint know how to make it,that why i try make one in the ring and tried some walk cycle too (credit character to WARFAREMACHINE)',
     Link: 'https://example.com/demo12',
     Img: 'Boxing .mp4',
     Github: 'https://github.com/Kojoutakio',
@@ -182,7 +182,7 @@ export const localProjects = [
   {
     id: 'project-13',
     Title: 'Main Menu',
-    Description: 'i got idea like this from tiktok btw',
+    Description: 'i got idea like this from tiktok btw (credit character to WARFAREMACHINE)',
     Link: 'https://example.com/demo13',
     Img: 'https://files.catbox.moe/6ltqct.mp4',
     Github: 'https://github.com/Kojoutakio',
@@ -195,12 +195,12 @@ export const localProjects = [
   },
   {
     id: 'project-14',
-    Title: 'SFW Warning,lopunny Dance',
-    Description: 'lopunny hell yeah..this is exlusive btw im only upload this on here lol',
+    Title: 'Budget cut',
+    Description: 'just some memes animation i make (credit character to Seriuswolf)',
     Link: 'https://example.com/demo14',
-    Img: 'https://files.catbox.moe/5zg5by.mp4',
+    Img: '0000-0257.mp4',
     Github: 'https://github.com/Kojoutakio',
-    TechStack: ['3D Animation', 'Trend', 'Pokemon', 'Furry', 'Bunny'],
+    TechStack: ['3D Animation', 'Trend', 'Pokemon', 'Furry', 'Bunny', 'palword'],
     Features: [
       'Blender Animation',
       'Furry',
