@@ -220,7 +220,7 @@ export default function FullWidthTabs() {
         <p className="text-slate-400 max-w-2xl mx-auto text-sm md:text-base mt-2">
           Explore my journey through projects, certifications, and technical expertise. 
           Each section represents a milestone in my continuous learning path.
-          ⚠️CAUTION ALL MODEL ISNT MINE! ALL ANIMATION IS PURE I MADE AND DONT CLAIM FOR THE MODEL CHARACTER.
+          ⚠️CAUTION ALL MODEL I ANIMATE IS ISNT MINE! ALL ANIMATION AND LOW POLY CHARACTER IS PURE I MADE AND DONT CLAIM FOR THE MODEL CHARACTER.
         </p>
       </div>
 
